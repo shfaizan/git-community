@@ -13,9 +13,9 @@ const IndexPage = () => (
 
     <h3>Step 1</h3>
     <p>
-      Visit the <a target="_blank" href="https://github.com/Club-DevBytes/git-community"> GitHub repository </a> of this project and fork the project to your account.
+      Visit the <a target="_blank" href="https://github.com/shfaizan/git-community"> GitHub repository </a> of this project and fork the project to your account.
        Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
-      <Code code="https://github.com/Club-DevBytes/git-community"/>
+      <Code code="https://github.com/shfaizan/git-community"/>
     </p>
     <h3>Step 2.1</h3>
     <p>
@@ -79,7 +79,7 @@ const IndexPage = () => (
     </p>
     <h3>Step 8</h3>
     <p>
-      Now, open your web browser and visit the <a target="_blank" href="https://github.com/Club-DevBytes/git-community"> original repository on GitHub</a>. If the changes have been pushed to your forked copy, there will be an option saying "New Pull Request" in the original repository.
+      Now, open your web browser and visit the <a target="_blank" href="https://github.com/shfaizan/git-community"> original repository on GitHub</a>. If the changes have been pushed to your forked copy, there will be an option saying "New Pull Request" in the original repository.
       Click on this option, and on the next page choose the master branch of the original repo as the <i>base fork</i> and your created-branch name on your fork as the <i>head fork</i> (Choose branch you created and not the master branch). Then click on the create pull request button.<br />
       Now add the commit message and describe the purpose of the pull request before you submit the pull request and you are all done!<br />
       Wait for a reviewer to review your PR and merge it into master.<br /><br /> Once it has been successfully merged, your profile will be visible in the submissions tab of this website. <i className="em em-trophy"></i>
