@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
         <div className="github-logo">
           <a
             target="_blank"
-            href="https://github.com/Club-DevBytes/git-community"
+            href="https://github.com/shfaizan/git-community"
           >
             <img alt="github-logo" src={github_logo} />
           </a>
