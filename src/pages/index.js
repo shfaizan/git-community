@@ -37,7 +37,7 @@ const IndexPage = () => (
     <h3>Step 4</h3>
     <p>
       You will be making the desired changes now. First move to the cloned directory.
-      <Code code="cd git-workshop-vit"/>
+      <Code code="cd git-community"/>
       Before you make any changes to the code, make sure you&apos;re working on a different branch and not in the master branch. To create a new branch,
       enter the following command while in the git repository.
       <Code code="git branch YOUR_USERNAME-profile"/>
