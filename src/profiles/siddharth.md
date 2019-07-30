@@ -1,4 +1,4 @@
 ---
 username : CubicManiac
-filename : Siddharth Chhatbar
+fullname : Siddharth Chhatbar
 ---
